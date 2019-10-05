@@ -1,0 +1,19 @@
+body {
+    background: #bdbdbd;
+  }
+  .navbar-brand {
+    padding: 10px;
+    background:rgb(191, 106, 214); 
+  }
+  .jumbotron {
+      background: rgb(206, 206, 206);
+  }
+  .btn{
+      background: #712485  ;
+  }
+  .text-center{
+      color: rgb(166, 78, 190)
+  }
+  .caption{
+      color: rgb(166, 78, 190)
+  }
